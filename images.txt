@@ -7,3 +7,5 @@
 
 #支持指定架构
 --platform=linux/amd64 mysql:8.0.23
+
+java:8
