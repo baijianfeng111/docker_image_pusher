@@ -8,7 +8,7 @@ mysql:8.0.29@sha256:12cf01a51f803d0ad49ee0dbbb3025a6eef3341e24757c2ed8150b6654c3
 #支持指定架构
 --platform=linux/amd64 mysql:8.0.23
 
-java:8
+openjdk:8-jdk-alpine
 
 
 
